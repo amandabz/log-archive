@@ -29,3 +29,5 @@ if existing_files:
     print(f"{name_tar} was successfully created.")
 else:
     print("No logs folder found. No archive was created.")
+
+# improve in progress...

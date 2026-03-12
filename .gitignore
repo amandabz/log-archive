@@ -1,0 +1,42 @@
+*.tar.gz
+*.tgz
+archives/
+backup/
+dist/
+
+# logs
+*.log
+logs/
+log/
+*.out
+
+# env
+.env
+.env.*
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+pip-wheel-metadata/
+
+# build / binaries
+build/
+dist/
+*.exe
+*.out
+*.app
+
+# os files
+.DS_Store
+Thumbs.db
+
+# editor / ide
+.vscode/
+.idea/
+*.swp
+*.swo

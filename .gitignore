@@ -6,8 +6,8 @@ dist/
 
 # logs
 *.log
-logs/
-log/
+# logs/
+# log/
 *.out
 
 # env

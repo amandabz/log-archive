@@ -67,3 +67,6 @@ No logs folder found. No archive was created.
 - Add support for remote backup or emailing the archive.
 - Schedule automatic archiving with cron jobs on Unix-based systems.
 - Add logging for error handling and archive history.
+
+### 📘 Project Information
+This project is based on the [Log Archive Tool Project](https://roadmap.sh/projects/log-archive-tool) from **roadmap.sh**.
